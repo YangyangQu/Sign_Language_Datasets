@@ -1,8 +1,8 @@
 ![image](https://github.com/YangyangQu/Sign_Language_Datasets/assets/44865046/417e2d25-5f6f-4b61-a7fd-4eec59005979)![image](https://github.com/YangyangQu/Sign_Language_Datasets/assets/44865046/77badc4e-5bce-4c54-80e3-cd6a9d9c100f)# Sign-Language-Dataset
 ## This repository collects some common sign language recognition datasets.
 
-| Dataset | Download Link | Paper Link | Size | Type | Country | 
-|-----|-----|-----|-----|-----|-----|-----|
+| Dataset | Download Link | Paper Link | Size | Type | Country |
+|-----|-----|-----|-----|-----|-----|
 | WLASL |[link](https://dxli94.github.io/WLASL/)| [link](https://arxiv.org/pdf/1910.11006v2.pdf) |内容1 | Video | American | 
 
 
