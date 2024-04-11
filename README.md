@@ -13,7 +13,7 @@
 | AUTSL |[link](https://cvml.ankara.edu.tr/datasets/)| | RGB & depth & skeleton | 38,336 video samples |  | 
 | BosphorusSign22k |[link](https://ogulcanozdemir.github.io/bosphorussign22k/)| [link](https://arxiv.org/pdf/2004.01283v2.pdf) |  RGB & Depth & Skeleton | 744 sign glosses |  |England  | 
 | GSL |[link](https://zenodo.org/records/3941811)| [link](https://arxiv.org/abs/2007.12530) |RGB & Depth | | | Greece  | 
-| LSA16 |[link](https://facundoq.github.io/datasets/lsa16/)|[link](https://arxiv.org/abs/2310.17427) |RGB image  |  | | Argentina  | 
+| LSA16 |[link](https://facundoq.github.io/datasets/lsa16/)|[link](https://arxiv.org/abs/2310.17427) |RGB   | 800 images | | Argentina  | 
 | LSA64 |[link](https://facundoq.github.io/datasets/lsa64/)| |RGB  | 3200 videos | | Argentina  | 
 | Rendered Handpose Dataset |[link](https://lmb.informatik.uni-freiburg.de/resources/datasets/RenderedHandposeDataset.en.html)|[link](https://lmb.informatik.uni-freiburg.de/projects/hand3d/) |RGB &Depth & Segmentation masks | 43986 samples | 7.1G | Argentina  | 
 | YouTube-ASL |[link](https://github.com/google-research/google-research/tree/master/youtube_asl)| [link](https://arxiv.org/abs/2306.15162) |RGB  | 11,093 videos | | America  | 
