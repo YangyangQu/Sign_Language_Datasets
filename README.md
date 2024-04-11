@@ -13,22 +13,26 @@
 | AUTSL |[link](https://cvml.ankara.edu.tr/datasets/)| | RGB & depth & skeleton | 38,336 video samples |  | 
 | BosphorusSign22k |[link](https://ogulcanozdemir.github.io/bosphorussign22k/)| [link](https://arxiv.org/pdf/2004.01283v2.pdf) |  RGB & Depth & Skeleton | 744 sign glosses |  |England  | 
 | GSL |[link](https://zenodo.org/records/3941811)| [link](https://arxiv.org/abs/2007.12530) |RGB & Depth | | | Greece  | 
+| LSA64 |[link](https://facundoq.github.io/datasets/lsa64/)| |RGB  | | | Argentina  | 
+
 ### Continue sign language recognition datasets
 
-| Dataset | Download Link | Paper Link | Length | Size | Country |
-|-----|-----|-----|-----|-----|-----|
-| Phoenix-2014 |[link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)| [link](https://www.sciencedirect.com/science/article/pii/S1077314215002088) |386 editions | 53GB | German  | 
-| Phoenix-2014T |[link](https://www.microsoft.com/en-us/research/project/ms-asl/)| [link](https://ieeexplore.ieee.org/document/8578910)|386 editions | 39GB | German  | 
+| Dataset | Download Link | Paper Link | Type |Length | Size | Country |
+|-----|-----|-----|-----|-----|-----|-----|
+| Phoenix-2014 |[link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)| [link](https://www.sciencedirect.com/science/article/pii/S1077314215002088) |RGB|386 editions | 53GB | German  | 
+| Phoenix-2014T |[link](https://www.microsoft.com/en-us/research/project/ms-asl/)| [link](https://ieeexplore.ieee.org/document/8578910)|RGB|386 editions | 39GB | German  | 
 | GSL |[link](https://zenodo.org/records/3941811)| [link](https://arxiv.org/abs/2007.12530) |RGB & Depth | | | Greece  | 
 
 
 ### Sign language translation datasets
 
-| Dataset | Download Link | Paper Link | Length | Size | Country |
-|-----|-----|-----|-----|-----|-----|
-| Phoenix-2014T |[link](https://www.microsoft.com/en-us/research/project/ms-asl/)| [link](https://ieeexplore.ieee.org/document/8578910)|386 editions | 39GB | German  | 
-| BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |1,940 episodes |  | England  | 
-| CSL-Daily |[link](https://ustc-slr.github.io/datasets/2021_csl_daily/)| [link](https://arxiv.org/abs/2105.12397) | |  | China  | 
-| OpenASL |[link](https://github.com/chevalierNoir/OpenASL/)| [link](https://arxiv.org/abs/2205.12870) | |  | England  | 
-| How2Sign |[link](https://how2sign.github.io/)| [link](https://arxiv.org/abs/2008.08143) | |  | England  | 
+| Dataset | Download Link | Paper Link | Type |Length | Size | Country |
+|-----|-----|-----|-----|-----|-----|-----|
+| Phoenix-2014T |[link](https://www.microsoft.com/en-us/research/project/ms-asl/)| [link](https://ieeexplore.ieee.org/document/8578910)|RGB|386 editions | 39GB | German  | 
+| BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |RGB|1,940 episodes |  | England  | 
+| CSL-Daily |[link](https://ustc-slr.github.io/datasets/2021_csl_daily/)| [link](https://arxiv.org/abs/2105.12397) |RGB| |  | China  | 
+| OpenASL |[link](https://github.com/chevalierNoir/OpenASL/)| [link](https://arxiv.org/abs/2205.12870) |RGB| |  | England  | 
+| How2Sign |[link](https://how2sign.github.io/)| [link](https://arxiv.org/abs/2008.08143) |RGB| |  | England  | 
 | GSL |[link](https://zenodo.org/records/3941811)| [link](https://arxiv.org/abs/2007.12530) |RGB & Depth | | | Greece  | 
+| Content4All |[link](https://www.cvssp.org/data/c4a-news-corpus/)|  |RGB | | |   | 
+
