@@ -24,6 +24,6 @@
 |-----|-----|-----|-----|-----|-----|
 | Phoenix-2014T |[link](https://www.microsoft.com/en-us/research/project/ms-asl/)| [link](https://ieeexplore.ieee.org/document/8578910)|386 editions | 39GB | German  | 
 | BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |1,940 episodes |  | England  | 
-| CSL-Daily |[link](https://ustc-slr.github.io/datasets/2021_csl_daily/)| [link](https://arxiv.org/abs/2105.12397) | |  |   | 
+| CSL-Daily |[link](https://ustc-slr.github.io/datasets/2021_csl_daily/)| [link](https://arxiv.org/abs/2105.12397) | |  | China  | 
 | OpenASL |[link](https://github.com/chevalierNoir/OpenASL/)| [link](https://arxiv.org/abs/2205.12870) | |  | England  | 
 | How2Sign |[link](https://how2sign.github.io/)| [link](https://arxiv.org/abs/2008.08143) | |  | England  | 
