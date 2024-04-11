@@ -15,31 +15,15 @@
 | Dataset | Download Link | Paper Link | Length | Size | Country |
 |-----|-----|-----|-----|-----|-----|
 | Phoenix-2014 |[link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)| [link](https://www.sciencedirect.com/science/article/pii/S1077314215002088) |386 editions | 53GB | German  | 
-| Phoenix-2014T |[link](https://www.microsoft.com/en-us/research/project/ms-asl/)| [link](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent_cvpr_2018%2Fpapers%2FCamgoz_Neural_Sign_Language_CVPR_2018_paper.pdf)|386 editions | 39GB | German  | 
+| Phoenix-2014T |[link](https://www.microsoft.com/en-us/research/project/ms-asl/)| [link](https://ieeexplore.ieee.org/document/8578910)|386 editions | 39GB | German  | 
 
 
 ### Sign language translation datasets
 
-
-
-| 列1 | 列2 |
-|-----|-----|
-| 内容1 | 内容2 |
-*WLASL: 14,289, 3,916, and 2,878 video segments in the train, dev, and test splits, respectively. [Link](https://dxli94.github.io/WLASL/)
-
-+MSASL: 16,054, 5,287, and 4,172 video segments in the train, dev, and test splits, respectively. [Link](https://www.microsoft.com/en-us/research/project/ms-asl/)
--NMFs-CSL: 25,608 and 6,402 video segments in the train and test splits, respectively. [Link]
-SLR500: 90,000 and 35,000 video segments in the train and test splits, respectively. [Link]
-Slovo: 15,300 and 5,100 video segments in the train and test splits, respectively. [Link]
-BOBSL: 993,000, 20,000, 165,000 video segments in train, val and test splits, respectively. [Link]
-Continue sign language recognition datasets:
-
-Phoenix-2014: 5,672, 540 and 629 video segments in the train, dev, and test splits, respectively. [Link]
-Phoenix-2014T: 7,096, 519 and 642 video segments in train, dev and test splits, respectively. [Link]
-Sign language translation datasets:
-
-Phoenix-2014T: 7,096, 519 and 642 video segments in train, dev and test splits, respectively. [Link]
-CSL-Daily: 18,401, 1,077 and 1,176 video segments in train, dev and test splits, respectively. [Link]
-OpenASL: 96,476, 966 and 975 video segments in train, val and test splits, respectively. [Link]
-How2Sign: 31,128, 1,741, 2,322 video segments in train, val and test splits, respectively. [Link]
-BOBSL: 993,000, 20,000, 165,000 video segments in train, val and test splits, respectively. [Link]
+| Dataset | Download Link | Paper Link | Length | Size | Country |
+|-----|-----|-----|-----|-----|-----|
+| Phoenix-2014T |[link](https://www.microsoft.com/en-us/research/project/ms-asl/)| [link](https://ieeexplore.ieee.org/document/8578910)|386 editions | 39GB | German  | 
+| BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |1,940 episodes |  | England  | 
+| CSL-Daily |[link](https://ustc-slr.github.io/datasets/2021_csl_daily/)| [link](https://arxiv.org/abs/2105.12397) | |  |   | 
+| OpenASL |[link](https://github.com/chevalierNoir/OpenASL/)| [link](https://arxiv.org/abs/2205.12870) | |  | England  | 
+| How2Sign |[link](https://how2sign.github.io/)| [link](https://arxiv.org/abs/2008.08143) | |  | England  | 
