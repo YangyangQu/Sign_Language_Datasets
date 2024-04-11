@@ -13,7 +13,11 @@
 | AUTSL |[link](https://cvml.ankara.edu.tr/datasets/)| | RGB & depth & skeleton | 38,336 video samples |  | 
 | BosphorusSign22k |[link](https://ogulcanozdemir.github.io/bosphorussign22k/)| [link](https://arxiv.org/pdf/2004.01283v2.pdf) |  RGB & Depth & Skeleton | 744 sign glosses |  |England  | 
 | GSL |[link](https://zenodo.org/records/3941811)| [link](https://arxiv.org/abs/2007.12530) |RGB & Depth | | | Greece  | 
-| LSA64 |[link](https://facundoq.github.io/datasets/lsa64/)| |RGB  | | | Argentina  | 
+| LSA64 |[link](https://facundoq.github.io/datasets/lsa64/)| |RGB  | 3200 videos | | Argentina  | 
+| Rendered Handpose Dataset |[link](https://lmb.informatik.uni-freiburg.de/resources/datasets/RenderedHandposeDataset.en.html)|[link](https://lmb.informatik.uni-freiburg.de/projects/hand3d/) |RGB &Depth & Segmentation masks | 43986 samples | 7.1G | Argentina  | 
+| YouTube-ASL |[link](https://github.com/google-research/google-research/tree/master/youtube_asl)| [link](https://arxiv.org/abs/2306.15162) |RGB  | 11,093 videos | | America  | 
+| LSFB-ISOL |[link](https://lsfb.info.unamur.be/#dataset)|  |RGB  |  | | Belgium  | 
+|ASLLVD |[link](https://www.bu.edu/asllrp/av/dai-asllvd.html)|  |RGB  | 3,300 videos | | America  | 
 
 ### Continue sign language recognition datasets
 
@@ -22,6 +26,8 @@
 | Phoenix-2014 |[link](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)| [link](https://www.sciencedirect.com/science/article/pii/S1077314215002088) |RGB|386 editions | 53GB | German  | 
 | Phoenix-2014T |[link](https://www.microsoft.com/en-us/research/project/ms-asl/)| [link](https://ieeexplore.ieee.org/document/8578910)|RGB|386 editions | 39GB | German  | 
 | GSL |[link](https://zenodo.org/records/3941811)| [link](https://arxiv.org/abs/2007.12530) |RGB & Depth | | | Greece  | 
+| ASLG-PC12 |[link](https://achrafothman.net/site/english-asl-gloss-parallel-corpus-2012-aslg-pc12/)| [link](https://arxiv.org/abs/2306.15162) |RGB  | 24002570 sentences | | America  | 
+| LSFB-CONT |[link](https://lsfb.info.unamur.be/#dataset)|  |RGB  |  | | Belgium  | 
 
 
 ### Sign language translation datasets
