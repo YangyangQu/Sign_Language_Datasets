@@ -4,7 +4,7 @@
 | Dataset | Download Link | Paper Link | Length | Size | Country |
 |-----|-----|-----|-----|-----|-----|
 | WLASL |[link](https://dxli94.github.io/WLASL/)| [link](https://arxiv.org/pdf/1910.11006v2.pdf) |2,000 words |  | American | 
-| MSASL |[link](https://www.microsoft.com/en-us/research/project/ms-asl/)| |1000 class | Video |  | 
+| MSASL |[link](https://www.microsoft.com/en-us/research/project/ms-asl/)| |1000 class |  |  | 
 | NMFs-CSL |[link](https://ustc-slr.github.io/datasets/2020_nmfs_csl/)| [link](https://arxiv.org/abs/2110.05382) |1,067 words |  | China | 
 | SLR500 |[link](http://home.ustc.edu.cn/~hagjie/)|  |500 categories |  | China | 
 | Slovo |[link](https://github.com/hukenovs/slovo)| [link](https://arxiv.org/abs/2305.14527) |1000 gestures| 16 GB | Russia | 
