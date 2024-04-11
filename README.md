@@ -9,7 +9,7 @@
 | SLR500 |[link](http://home.ustc.edu.cn/~hagjie/)|  |500 categories |  | China | 
 | Slovo |[link](https://github.com/hukenovs/slovo)| [link](https://arxiv.org/abs/2305.14527) |1000 gestures| 16 GB | Russia | 
 | BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |1,940 episodes |  | England  | 
-| 27 Class Sign Language Dataset |[link](https://www.kaggle.com/datasets/ardamavi/27-class-sign-language-dataset/data)| [link](https://arxiv.org/abs/2203.03859) |1,940 episodes | 1G | America  | 
+| 27 Class Sign Language Dataset |[link](https://www.kaggle.com/datasets/ardamavi/27-class-sign-language-dataset/data)| [link](https://arxiv.org/abs/2203.03859) | | 1G | America  | 
 | BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |1,940 episodes |  | England  | 
 | BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |1,940 episodes |  | England  | 
 | BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |1,940 episodes |  | England  | 
