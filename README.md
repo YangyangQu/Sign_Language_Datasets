@@ -1,8 +1,8 @@
 # Sign-Language-Dataset
 ## This repository collects some common sign language recognition datasets.
 ### Isolated sign language recognition datasets
-| Dataset | Download Link | Paper Link | Length | Size | Country |
-|-----|-----|-----|-----|-----|-----|
+| Dataset | Download Link | Paper Link | Length | Type | Size | Country |
+|-----|-----|-----|-----|-----|-----|-----|
 | WLASL |[link](https://dxli94.github.io/WLASL/)| [link](https://arxiv.org/pdf/1910.11006v2.pdf) |2,000 words |  | America | 
 | MSASL |[link](https://www.microsoft.com/en-us/research/project/ms-asl/)| |1000 class |  |  | 
 | NMFs-CSL |[link](https://ustc-slr.github.io/datasets/2020_nmfs_csl/)| [link](https://arxiv.org/abs/2110.05382) |1,067 words |  | China | 
@@ -10,8 +10,8 @@
 | Slovo |[link](https://github.com/hukenovs/slovo)| [link](https://arxiv.org/abs/2305.14527) |1000 gestures| 16 GB | Russia | 
 | BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |1,940 episodes |  | England  | 
 | 27 Class Sign Language Dataset |[link](https://www.kaggle.com/datasets/ardamavi/27-class-sign-language-dataset/data)| [link](https://arxiv.org/abs/2203.03859) | | 1G | America  | 
-| BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |1,940 episodes |  | England  | 
-| BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |1,940 episodes |  | England  | 
+| AUTSL |[link](https://cvml.ankara.edu.tr/datasets/)| |38,336 video samples |   RGB & depth & skeleton   |   | 
+| BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |1,940 episodes |  RGB & depth & skeleton   | England  | 
 | BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |1,940 episodes |  | England  | 
 ### Continue sign language recognition datasets
 
