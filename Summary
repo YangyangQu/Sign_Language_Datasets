@@ -1,4 +1,5 @@
-This repository collects some common sign language recognition datasets.
+# Sign-Language-Dataset
+## This repository collects some common sign language recognition datasets.
 Isolated sign language recognition datasets:
 
 WLASL: 14,289, 3,916, and 2,878 video segments in the train, dev, and test splits, respectively. [Link]
