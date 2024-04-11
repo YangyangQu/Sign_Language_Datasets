@@ -2,8 +2,9 @@
 ## This repository collects some common sign language recognition datasets.
 Isolated sign language recognition datasets:
 
--WLASL: 14,289, 3,916, and 2,878 video segments in the train, dev, and test splits, respectively. [Link](https://dxli94.github.io/WLASL/)
--MSASL: 16,054, 5,287, and 4,172 video segments in the train, dev, and test splits, respectively. [Link](https://www.microsoft.com/en-us/research/project/ms-asl/)
+*WLASL: 14,289, 3,916, and 2,878 video segments in the train, dev, and test splits, respectively. [Link](https://dxli94.github.io/WLASL/)
+
++MSASL: 16,054, 5,287, and 4,172 video segments in the train, dev, and test splits, respectively. [Link](https://www.microsoft.com/en-us/research/project/ms-asl/)
 -NMFs-CSL: 25,608 and 6,402 video segments in the train and test splits, respectively. [Link]
 SLR500: 90,000 and 35,000 video segments in the train and test splits, respectively. [Link]
 Slovo: 15,300 and 5,100 video segments in the train and test splits, respectively. [Link]
