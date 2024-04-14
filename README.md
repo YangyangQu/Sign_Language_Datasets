@@ -12,7 +12,7 @@ This repository is dedicated to collecting various datasets related to sign lang
 | MSASL |[link](https://www.microsoft.com/en-us/research/project/ms-asl/)| | RGB | 25,000 videos | |  |
 | NMFs-CSL |[link](https://ustc-slr.github.io/datasets/2020_nmfs_csl/)| [link](https://arxiv.org/abs/2110.05382) | RGB |1,067 words | | China | 
 | SLR500 |[link](http://home.ustc.edu.cn/~hagjie/)|  | RGB & Depth & Skeleton  | 500 categories |  | China | 
-| Slovo |[link](https://github.com/hukenovs/slovo)| [link](https://arxiv.org/abs/2305.14527) | RGB | 1000 gestures| 16 GB | Russia | 
+| Slovo |[link](https://github.com/hukenovs/slovo)| [link](https://arxiv.org/abs/2305.14527) | RGB | 20400 videos | 16 GB | Russia | 
 | BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |RGB |1,940 episodes |  | England  | 
 | 27 Class Sign Language Dataset |[link](https://www.kaggle.com/datasets/ardamavi/27-class-sign-language-dataset/data)| [link](https://arxiv.org/abs/2203.03859) |RGB| | 1G | America  | 
 | AUTSL |[link](https://cvml.ankara.edu.tr/datasets/)| | RGB & depth & skeleton | 38,336 video samples |  | 
