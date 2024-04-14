@@ -27,7 +27,7 @@ This repository is dedicated to collecting various datasets related to sign lang
 |AASL|[link](https://www.kaggle.com/datasets/59761a7132888de252ded8443ced1c7fb21ad28be5598f1f6ca43c663c32b40b/data)| [link](https://arxiv.org/abs/2301.11932) |RGB  | 7,857  images | 5G  | Arabic   | 
 |KArSL|[link](https://hamzah-luqman.github.io/KArSL/)| [link](https://dl.acm.org/doi/10.1145/3423420#:~:text=Signs%20in%20KArSL%20database%20are,language%20recognition%20using%20this%20database) |RGB & Depth & Skeleton |  75,300 videos |  | Arabic  | 
 |BdSLImset|[link](https://imruljubair.github.io/project/project-page.html#bdsl)| [link](https://arxiv.org/abs/1811.12813) |RGB  | 4000000 images  |   | Bangladesh  | 
-|ISLTranslate|[link](https://github.com/Exploration-Lab/ISLTranslate?tab=readme-ov-file)| [link](https://arxiv.org/abs/2307.05440v1) |RGB  |  |   | India  | 
+
 
 
 ### Continue sign language recognition datasets
@@ -52,7 +52,7 @@ This repository is dedicated to collecting various datasets related to sign lang
 | How2Sign |[link](https://how2sign.github.io/)| [link](https://arxiv.org/abs/2008.08143) |RGB| |  | England  | 
 | GSL |[link](https://zenodo.org/records/3941811)| [link](https://arxiv.org/abs/2007.12530) |RGB & Depth | | | Greece  | 
 | Content4All |[link](https://www.cvssp.org/data/c4a-news-corpus/)|  |RGB | | |   | 
-
+|ISLTranslate|[link](https://github.com/Exploration-Lab/ISLTranslate?tab=readme-ov-file)| [link](https://arxiv.org/abs/2307.05440v1) |RGB  |  |   | India  | 
 
 ## License
 
