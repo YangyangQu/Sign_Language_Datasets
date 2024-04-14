@@ -9,7 +9,7 @@ This repository is dedicated to collecting various datasets related to sign lang
 | Dataset | Download Link | Paper Link | Type | Length | Size | Country |
 |-----|-----|-----|-----|-----|-----|-----|
 | WLASL |[link](https://dxli94.github.io/WLASL/)| [link](https://arxiv.org/pdf/1910.11006v2.pdf) | RGB |2,000 words | | America | 
-| MSASL |[link](https://www.microsoft.com/en-us/research/project/ms-asl/)| | RGB | 1000 class | |  |
+| MSASL |[link](https://www.microsoft.com/en-us/research/project/ms-asl/)| | RGB | 25,000 videos | |  |
 | NMFs-CSL |[link](https://ustc-slr.github.io/datasets/2020_nmfs_csl/)| [link](https://arxiv.org/abs/2110.05382) | RGB |1,067 words | | China | 
 | SLR500 |[link](http://home.ustc.edu.cn/~hagjie/)|  | RGB & Depth & Skeleton  | 500 categories |  | China | 
 | Slovo |[link](https://github.com/hukenovs/slovo)| [link](https://arxiv.org/abs/2305.14527) | RGB | 1000 gestures| 16 GB | Russia | 
