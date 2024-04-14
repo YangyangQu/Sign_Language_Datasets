@@ -13,10 +13,10 @@ This repository is dedicated to collecting various datasets related to sign lang
 | NMFs-CSL |[link](https://ustc-slr.github.io/datasets/2020_nmfs_csl/)| [link](https://arxiv.org/abs/2110.05382) | RGB |1,067 words | | China | 
 | SLR500 |[link](http://home.ustc.edu.cn/~hagjie/)|  | RGB & Depth & Skeleton  | 500 categories |  | China | 
 | Slovo |[link](https://github.com/hukenovs/slovo)| [link](https://arxiv.org/abs/2305.14527) | RGB | 20400 videos | 16 GB | Russia | 
-| BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |RGB |1,940 episodes |  | England  | 
+| BOBSL |[link](https://www.robots.ox.ac.uk/~vgg/data/bobsl/)| [link](https://arxiv.org/abs/2208.02802) |RGB | |  | England  | 
 | 27 Class Sign Language Dataset |[link](https://www.kaggle.com/datasets/ardamavi/27-class-sign-language-dataset/data)| [link](https://arxiv.org/abs/2203.03859) |RGB| | 1G | America  | 
-| AUTSL |[link](https://cvml.ankara.edu.tr/datasets/)| | RGB & depth & skeleton | 38,336 video samples |  | 
-| BosphorusSign22k |[link](https://ogulcanozdemir.github.io/bosphorussign22k/)| [link](https://arxiv.org/pdf/2004.01283v2.pdf) |  RGB & Depth & Skeleton | 744 sign glosses |  |England  | 
+| AUTSL |[link](https://cvml.ankara.edu.tr/datasets/)| | RGB & depth & skeleton | 38,336 videos  |  | 
+| BosphorusSign22k |[link](https://ogulcanozdemir.github.io/bosphorussign22k/)| [link](https://arxiv.org/pdf/2004.01283v2.pdf) |  RGB & Depth & Skeleton |22,542 videos |  |England  | 
 | GSL |[link](https://zenodo.org/records/3941811)| [link](https://arxiv.org/abs/2007.12530) |RGB & Depth | | | Greece  | 
 | LSA16 |[link](https://facundoq.github.io/datasets/lsa16/)|[link](https://arxiv.org/abs/2310.17427) |RGB   | 800 images | | Argentina  | 
 | LSA64 |[link](https://facundoq.github.io/datasets/lsa64/)| |RGB  | 3200 videos | | Argentina  | 
@@ -24,9 +24,9 @@ This repository is dedicated to collecting various datasets related to sign lang
 | YouTube-ASL |[link](https://github.com/google-research/google-research/tree/master/youtube_asl)| [link](https://arxiv.org/abs/2306.15162) |RGB  | 11,093 videos | | America  | 
 | LSFB-ISOL |[link](https://lsfb.info.unamur.be/#dataset)|  |RGB  |  | | Belgium  | 
 |ASLLVD |[link](https://www.bu.edu/asllrp/av/dai-asllvd.html)|  |RGB  | 3,300 videos | | America  | 
-|AASLD|[link](https://www.bu.edu/asllrp/av/dai-asllvd.html)| [link](https://arxiv.org/abs/2301.11932) |RGB  | 7,857  videos | 5G  | America  | 
-|KArSL|[link](https://hamzah-luqman.github.io/KArSL/)| [link](https://dl.acm.org/doi/10.1145/3423420#:~:text=Signs%20in%20KArSL%20database%20are,language%20recognition%20using%20this%20database) |RGB & Depth & Skeleton |  75,300 samples |  | Arabic  | 
-|BdSLImset|[link](https://imruljubair.github.io/project/project-page.html#bdsl)| [link](https://arxiv.org/abs/1811.12813) |RGB  |  |   | Bangladesh  | 
+|AASL|[link](https://www.kaggle.com/datasets/59761a7132888de252ded8443ced1c7fb21ad28be5598f1f6ca43c663c32b40b/data)| [link](https://arxiv.org/abs/2301.11932) |RGB  | 7,857  images | 5G  | Arabic   | 
+|KArSL|[link](https://hamzah-luqman.github.io/KArSL/)| [link](https://dl.acm.org/doi/10.1145/3423420#:~:text=Signs%20in%20KArSL%20database%20are,language%20recognition%20using%20this%20database) |RGB & Depth & Skeleton |  75,300 videos |  | Arabic  | 
+|BdSLImset|[link](https://imruljubair.github.io/project/project-page.html#bdsl)| [link](https://arxiv.org/abs/1811.12813) |RGB  | 4000000 images  |   | Bangladesh  | 
 |ISLTranslate|[link](https://github.com/Exploration-Lab/ISLTranslate?tab=readme-ov-file)| [link](https://arxiv.org/abs/2307.05440v1) |RGB  |  |   | India  | 
 
 
