@@ -1,5 +1,15 @@
-# Sign-Language-Dataset
-## This repository collects some common sign language recognition datasets.
+
+# Sign Language Dataset Repository
+
+This repository is dedicated to collecting various datasets related to sign language recognition and translation. It aims to provide a centralized resource for researchers, developers, and enthusiasts working on sign language recognition and translation technologies.
+
+## Datasets Included
+
+### Isolated Sign Language Recognition Datasets
+### Continuous Sign Language Recognition Datasets
+### Sign Language Translation Datasets
+
+
 ### Isolated sign language recognition datasets
 | Dataset | Download Link | Paper Link | Type | Length | Size | Country |
 |-----|-----|-----|-----|-----|-----|-----|
@@ -47,4 +57,13 @@
 | How2Sign |[link](https://how2sign.github.io/)| [link](https://arxiv.org/abs/2008.08143) |RGB| |  | England  | 
 | GSL |[link](https://zenodo.org/records/3941811)| [link](https://arxiv.org/abs/2007.12530) |RGB & Depth | | | Greece  | 
 | Content4All |[link](https://www.cvssp.org/data/c4a-news-corpus/)|  |RGB | | |   | 
+
+
+## License
+
+The datasets included in this repository are subject to their respective licenses. Please refer to the individual dataset directories for more information.
+
+## Disclaimer
+
+This repository is maintained for informational purposes and does not endorse or guarantee the accuracy or quality of the datasets included. Users are encouraged to review and verify the datasets independently before use.
 
