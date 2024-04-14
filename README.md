@@ -5,11 +5,6 @@ This repository is dedicated to collecting various datasets related to sign lang
 
 ## Datasets Included
 
-### Isolated Sign Language Recognition Datasets
-### Continuous Sign Language Recognition Datasets
-### Sign Language Translation Datasets
-
-
 ### Isolated sign language recognition datasets
 | Dataset | Download Link | Paper Link | Type | Length | Size | Country |
 |-----|-----|-----|-----|-----|-----|-----|
@@ -62,8 +57,3 @@ This repository is dedicated to collecting various datasets related to sign lang
 ## License
 
 The datasets included in this repository are subject to their respective licenses. Please refer to the individual dataset directories for more information.
-
-## Disclaimer
-
-This repository is maintained for informational purposes and does not endorse or guarantee the accuracy or quality of the datasets included. Users are encouraged to review and verify the datasets independently before use.
-
