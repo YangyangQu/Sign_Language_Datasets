@@ -26,8 +26,8 @@ This repository is dedicated to collecting various datasets related to sign lang
 |ASLLVD |[link](https://www.bu.edu/asllrp/av/dai-asllvd.html)|  |RGB  | 3,300 videos | | America  | 
 |AASL|[link](https://www.kaggle.com/datasets/59761a7132888de252ded8443ced1c7fb21ad28be5598f1f6ca43c663c32b40b/data)| [link](https://arxiv.org/abs/2301.11932) |RGB  | 7,857  images | 5G  | Arabic   | 
 |KArSL|[link](https://hamzah-luqman.github.io/KArSL/)| [link](https://dl.acm.org/doi/10.1145/3423420#:~:text=Signs%20in%20KArSL%20database%20are,language%20recognition%20using%20this%20database) |RGB & Depth & Skeleton |  75,300 videos |  | Arabic  | 
-|BdSLImset|[link](https://imruljubair.github.io/project/project-page.html#bdsl)| [link](https://arxiv.org/abs/1811.12813) |RGB  | 4000000 images  |   | Bangladesh  | 
-
+|BdSLImset|[link](https://imruljubair.github.io/project/project-page.html#bdsl)| [link](https://arxiv.org/abs/1811.12813) |RGB  | 4,000,000 images  |   | Bangladesh  | 
+|HaGRID |[link](https://github.com/hukenovs/hagrid)| [link](https://arxiv.org/abs/2206.08219) |RGB  |  554,800  images  |  723GB | Bangladesh  | 
 
 
 ### Continue sign language recognition datasets
